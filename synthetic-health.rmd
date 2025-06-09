@@ -1,5 +1,5 @@
 ---
-title: "Bài thực hành số 2"
+title: "Synthetic Health"
 author: "Nhóm 26"
 date: "`r Sys.Date()`"
 output: html_document
